@@ -20,14 +20,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Sobre o olhar do necromante , a escada prateada apareceu , as pessoas maravilhadas com seus olhos cheios de poder. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude você toma?",
+        enunciado: "belooooo.",
         alternativas: [
             {
-                texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
+                texto: " da horaaaa",
                 afirmacao:"afirmacao"
             },
             {
-                texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "oriveeeeeeuuuu.",
                 afirmacao:"afirmacao"
             }
         ]
